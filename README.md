@@ -98,7 +98,7 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 - Challange ACI 2019 conducted by GRIET College Hyderabad
   - [GRIET](http://www.griet.ac.in/news_events.php?id=44)
   - [Project](https://github.com/aryanc55/Challenge-ACI)
-  - Project : [Smart Irriagtion System](https://youtu.be/dZ_-BTc-ZrI) 
+  - Project Youtube Video: [Smart Irriagtion System](https://youtu.be/dZ_-BTc-ZrI) 
 
 - ABES-IT BigDataThon 2018
   - [ABESIT](https://abesit.in/events/day-1-3-days-bigdatathon18/)
