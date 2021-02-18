@@ -57,6 +57,7 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 <summary>Keeping Track of other hackathons </summary>
 
 *Machine Hack*
+
 - Merchandise Popularity Prediction [MachineHack](https://www.machinehack.com/hackathons/merchandise_popularity_prediction_challenge/overview)[Code](https://github.com/aryanc55/MachineHackMerchandisePrediction) *Rank-42*
 - Odi match winner [MachineHack](https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9)[Code](https://github.com/aryanc55/MachineHackODIMatchWinner) *Rank-41*
 
@@ -64,16 +65,23 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 
 - Used electronics price prediction [MachineHack](https://www.machinehack.com/hackathons/used_electronics_price_prediction_weekend_hackathon_7) [Code](https://github.com/aryanc55/MachineHackElectronicPrice) *Rank-61*
 
+
 *DPhi*
+
 - DPhi Datathon 24 Tinder Match Prediction [DPHI](https://dphi.tech/practice/challenge/60#problem) [Code](https://github.com/aryanc55/DPHITinderData) *Rank-10*
 
+
 *Analytics Vidhya*
--LTFS FINHACK3 [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-3/#LeaderBoard) [Code](https://github.com/aryanc55/LTFSDSFinHack3) *Rank-249*
+
+- LTFS FINHACK3 [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-3/#LeaderBoard) [Code](https://github.com/aryanc55/LTFSDSFinHack3) *Rank-249*
+
 
 *HackerEarth*
+
 - Yet to participate/upload
 
 *Kaggle*
+
 - Yet to participate/upload
 
 *Zindi*
@@ -93,8 +101,8 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
   - Project : [Smart Irriagtion System](https://youtu.be/dZ_-BTc-ZrI) 
 
 - ABES-IT BigDataThon 2018
-  -[ABESIT](https://abesit.in/events/day-1-3-days-bigdatathon18/)
-  -[TrendzMap](https://github.com/aryanc55/TrendzMap)
+  - [ABESIT](https://abesit.in/events/day-1-3-days-bigdatathon18/)
+  - [TrendzMap](https://github.com/aryanc55/TrendzMap)
 
 #### Research work:
 
