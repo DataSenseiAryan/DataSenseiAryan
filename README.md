@@ -18,15 +18,15 @@
 
 - 🔭 I’m currently working on **CV/NLP problems**
 
-- 🌱 I’m currently learning **Whatever I stumble Upon**
+- 🌱 I’m currently **Preparing for Masters(CSE) Entrance Exams**
 
 - 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
 
 - 👨‍💻 All of my projects are available at [Here on Github](https://github.com/aryanc55)
 
-- 📝 I regulary write articles on [Machine Learning and stuff](https://medium.com/@aryanc55)
+- 📝 I regulary write articles on [Machine Learning on Medium](https://medium.com/@aryanc55)
 
-- 💬 Ask me about **Anything and Everything**
+- 💬 Connect with me **Anything and Everything** [LinkedIN](https://www.linkedin.com/in/aryan-chaudhary-9325421b4/)
 
 - 📫 How to reach me **aryanc55@gmail.com**
 
@@ -57,36 +57,48 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 <summary>Keeping Track of other hackathons </summary>
 
 *Machine Hack*
-
+- Merchandise Popularity Prediction [MachineHack](https://www.machinehack.com/hackathons/merchandise_popularity_prediction_challenge/overview)[Code](https://github.com/aryanc55/MachineHackMerchandisePrediction) *Rank-42*
 - Odi match winner [MachineHack](https://www.machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9)[Code](https://github.com/aryanc55/MachineHackODIMatchWinner) *Rank-41*
 
 - Food quality assessment women in ai hackathon [MachineHack](https://www.machinehack.com/hackathons/food_quality_assessment_women_in_ai_hackathon) [Code](https://github.com/aryanc55/MachineHackFoodQuality)  *Rank-49*
 
 - Used electronics price prediction [MachineHack](https://www.machinehack.com/hackathons/used_electronics_price_prediction_weekend_hackathon_7) [Code](https://github.com/aryanc55/MachineHackElectronicPrice) *Rank-61*
 
+*DPhi*
+- DPhi Datathon 24 Tinder Match Prediction [DPHI](https://dphi.tech/practice/challenge/60#problem) [Code](https://github.com/aryanc55/DPHITinderData) *Rank-10*
+
+*Analytics Vidhya*
+-LTFS FINHACK3 [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-3/#LeaderBoard) [Code](https://github.com/aryanc55/LTFSDSFinHack3) *Rank-249*
 
 *HackerEarth*
-
 - Yet to participate/upload
 
 *Kaggle*
 - Yet to participate/upload
 
 *Zindi*
-
 - Yet to participate/upload
 
 </details>
 
 #### Offline Hackathons:
 
-- Smart India Hackathon 2018 (Team Leader) 
+- Smart India Hackathon 2018 by GOI (Team Leader) 
   - [SIH2018](https://www.sih.gov.in/sih2018Software#disSIH2)
   - [Project](https://www.sih.gov.in/sih2018Software#disSIH2) -ML model only
 
+- Challange ACI 2019 conducted by GRIET College Hyderabad
+  - [GRIET](http://www.griet.ac.in/news_events.php?id=44)
+  - [Project](https://github.com/aryanc55/Challenge-ACI)
+  - Project : [Smart Irriagtion System](https://youtu.be/dZ_-BTc-ZrI) 
+
+- ABES-IT BigDataThon 2018
+  -[ABESIT](https://abesit.in/events/day-1-3-days-bigdatathon18/)
+  -[TrendzMap](https://github.com/aryanc55/TrendzMap)
+
 #### Research work:
 
-- On the Learning Machine with Amplificatory Neuron in Complex Domain 
+- Co-author in Research Paper: On the Learning Machine with Amplificatory Neuron in Complex Domain 
   - [Paper](https://link.springer.com/article/10.1007/s13369-020-04692-3)
   - [Journal Springer,Arab J Sci Eng (2020)](https://www.springer.com/journal/13369) 
   - DOI: https://doi.org/10.1007/s13369-020-04692-3 
