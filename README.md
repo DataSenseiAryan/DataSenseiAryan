@@ -26,7 +26,7 @@
 
 - 📝 I regulary write articles on [Machine Learning on Medium](https://medium.com/@aryanc55)
 
-- 💬 Connect with me **Anything and Everything** [LinkedIN](https://www.linkedin.com/in/aryan-chaudhary-9325421b4/)
+- 💬 Connect with me [LinkedIN](https://www.linkedin.com/in/aryan-chaudhary-9325421b4/)
 
 - 📫 How to reach me **aryanc55@gmail.com**
 
