@@ -16,19 +16,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
 
-- 🔭 I’m currently working on **CV/NLP problems**
+<!-- - 🔭 I’m currently working on **CV/NLP problems**
 
 - 🌱 I’m currently **Preparing for Masters Entrance**
 
-- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
+- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP** -->
 
 - 👨‍💻 All of my projects are available at [Here on Github](https://github.com/datasenseiaryan)
 
 - 📝 I regulary write articles on [Machine Learning on Medium](https://medium.com/@datasenseiaryan)
 
-- 💬 Connect with me [LinkedIN](https://www.linkedin.com/in/aryan-chaudhary-9325421b4/)
+<!-- - 💬 Connect with me [LinkedIN](https://www.linkedin.com/in/aryan-chaudhary-9325421b4/)
 
-- 📫 How to reach me **LinkedIN **
+- 📫 How to reach me **LinkedIN ** -->
 
 - ⚡ Fun fact **The only special thing about me is I am left-handed :D**
 
