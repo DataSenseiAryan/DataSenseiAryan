@@ -6,8 +6,8 @@
 <a href="https://kaggle.com/aryanc55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aryanc55" height="20" width="20" /></a>
 <a href="https://medium.com/@datasenseiaryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aryanc55" height="20" width="20" /></a>
  <a href="https://www.youtube.com/channel/UCR_vDHQE_whTxKHPeylhtOw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aryanc55" height="20" width="20" /></a>
-   <a href="https://www.linkedin.com/in/aryan-chaudhary-9325421b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryanc55" height="20" width="20" /></a>
-<a href="https://www.reddit.com/user/the_real_chaudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/reddit.svg"  alt="the_real_chaudhary" height="20" width="20"/></a>
+<!--    <a href="https://www.linkedin.com/in/aryan-chaudhary-9325421b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryanc55" height="20" width="20" /></a>
+<a href="https://www.reddit.com/user/the_real_chaudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/reddit.svg"  alt="the_real_chaudhary" height="20" width="20"/></a> -->
 <a href="https://scholar.google.co.uk/citations?user=SqBITcUAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg"  alt="aryan's google scholor" height="20" width="20"/></a>
 </p>
 
