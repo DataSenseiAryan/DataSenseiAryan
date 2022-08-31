@@ -5,9 +5,8 @@
 <a href="https://twitter.com/datasenseiaryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aryanc55" height="20" width="20" /></a>
 <a href="https://kaggle.com/aryanc55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="aryanc55" height="20" width="20" /></a>
 <a href="https://medium.com/@datasenseiaryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aryanc55" height="20" width="20" /></a>
-<!--  <a href="https://www.youtube.com/channel/UCR_vDHQE_whTxKHPeylhtOw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aryanc55" height="20" width="20" /></a>
-<!--    <a href="https://www.linkedin.com/in/aryan-chaudhary-9325421b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryanc55" height="20" width="20" /></a> -->
-<a href="https://www.reddit.com/user/the_real_chaudhary/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/reddit.svg"  alt="the_real_chaudhary" height="20" width="20"/></a> -->
+<!--  <a href="https://www.youtube.com/channel/UCR_vDHQE_whTxKHPeylhtOw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="aryanc55" height="20" width="20" /></a> -->
+<a href="https://www.linkedin.com/in/aryanchaudharyiiitd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aryanc55" height="20" width="20" /></a>
 <a href="https://scholar.google.co.uk/citations?user=SqBITcUAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg"  alt="aryan's google scholor" height="20" width="20"/></a>
 </p>
 
@@ -16,17 +15,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
 
-<!-- - 🔭 I’m currently working on **CV/NLP problems**
+- 🔭 I’m currently working on **University Assignements** (lol)
 
-- 🌱 I’m currently **Preparing for Masters Entrance**
+- 🌱 I’m currently **Pursuing Master in AI**
 
-- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP** -->
+- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
 
 - 👨‍💻 All of my projects are available at [Here on Github](https://github.com/datasenseiaryan)
 
 - 📝 I regulary write articles on [Machine Learning on Medium](https://medium.com/@datasenseiaryan)
 
-<!-- - 💬 Connect with me [LinkedIN](https://www.linkedin.com/in/aryan-chaudhary-9325421b4/)
+- 💬 Connect with me [LinkedIN](https://www.linkedin.com/in/aryanchaudharyiiitd/)
 
 - 📫 How to reach me **LinkedIN ** -->
 
@@ -36,7 +35,7 @@
 
 <summary>A Little More ABout ME!(click to expand)</summary>
 <p align="left">  
-<strong> Strong engineering professional with a B.tech focused on Information Technology from AJAY
+<strong> Strong engineering professional pursuing Masters from IIIT Delhi with a B.tech focused on Information Technology from AJAY
 KUMAR GARG ENGINEERING COLLEGE. Research-oriented, interested in Machine Learning, skilled in
 Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theoratical basics in DSA, operating system, and computer networks. 
 </strong></p>  
