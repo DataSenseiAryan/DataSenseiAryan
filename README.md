@@ -110,8 +110,14 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
   - [Journal Springer,Arab J Sci Eng (2020)](https://www.springer.com/journal/13369) 
   - DOI: https://doi.org/10.1007/s13369-020-04692-3 
 
+- Co-author in Research Paper: A novel non-linear neuron model based on multiplicative aggregation in quaternionic domain
+  - [Paper](https://link.springer.com/article/10.1007/s40747-022-00911-6)
+  - [Complex & Intelligent Systems](https://www.springer.com/journal/40747) 
+  - DOI: https://doi.org/10.1007/s40747-022-00911-6
+
+
   *working on*
-- Submitted one paper - First Review completed.
+- M.Tech Thesis 
 
 
 
