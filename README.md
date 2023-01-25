@@ -13,7 +13,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanc55" alt="aryanc55" /> </p>
 
 - 🔭 I’m currently working on **University Assignements** (lol)
 
