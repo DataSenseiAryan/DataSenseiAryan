@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on **University Assignements** (lol)
+- 🔭 I’m currently working on **University Assignements,THESIS work**
 
 - 🌱 I’m currently **Pursuing Master in AI**
 
@@ -116,7 +116,8 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
 
 
   *working on*
-- M.Tech Thesis 
+- M.Tech Thesis
+    - Submitted 1 paper in international conference. 
 
 
 
