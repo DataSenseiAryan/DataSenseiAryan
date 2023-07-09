@@ -26,7 +26,7 @@
 
 - 💬 Connect with me [LinkedIN](https://www.linkedin.com/in/aryanchaudharyiiitd/)
 
-- 📫 How to reach me **LinkedIN ** -->
+- 📫 How to reach me [LinkedIN](https://www.linkedin.com/in/aryanchaudharyiiitd/)
 
 - ⚡ Fun fact **The only special thing about me is I am left-handed :D**
 
