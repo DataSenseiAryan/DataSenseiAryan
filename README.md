@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently **Pursuing Master in AI**
 
-- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV and NLP**
+- 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV,NLP,Speech**
 
 - 👨‍💻 All of my projects are available at [Here on Github](https://github.com/datasenseiaryan)
 
