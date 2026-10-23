@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Voice AI and LLM systems as a Senior GenAI Engineer at Aivar Innovations, Bengaluru**
 
-- 🌱 I completed my **M.Tech in CSE (AI) from IIIT Delhi** with a **Gold Medal** and the **Best M.Tech Thesis Award (2024)**
+- 🌱 I completed my **M.Tech in CSE (AI) from IIIT Delhi** with the **Best M.Tech Thesis Award (Gold Medal), 2024**
 
 - 🔬 My research is on **efficient speech & audio models (quaternion neural networks, compression) and evaluation of LLM / voice agents**
 
