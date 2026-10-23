@@ -14,9 +14,11 @@
 
 
 
-- 🔭 I’m currently working on **University Assignements,THESIS work**
+- 🔭 I’m currently working on **Voice AI and LLM systems as a Senior GenAI Engineer at Aivar Innovations, Bengaluru**
 
-- 🌱 I’m currently **Pursuing Master in AI**
+- 🌱 I completed my **M.Tech in CSE (AI) from IIIT Delhi** with a **Gold Medal** and the **Best M.Tech Thesis Award (2024)**
+
+- 🔬 My research is on **efficient speech & audio models (quaternion neural networks, compression) and evaluation of LLM / voice agents**
 
 - 👯 I’m looking to collaborate on **Research projects/AI product development related to core-ML,CV,NLP,Speech**
 
@@ -34,12 +36,26 @@
 
 <summary>A Little More ABout ME!(click to expand)</summary>
 <p align="left">  
-<strong> Strong engineering professional pursuing Masters from IIIT Delhi with a B.tech focused on Information Technology from AJAY
+<strong> Senior GenAI Engineer at Aivar Innovations (previously Exotel and Dell Technologies), with an M.Tech in CSE (AI) from IIIT Delhi and a B.tech focused on Information Technology from AJAY
 KUMAR GARG ENGINEERING COLLEGE. Research-oriented, interested in Machine Learning, skilled in
 Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theoratical basics in DSA, operating system, and computer networks. 
 </strong></p>  
 
 </details>
+
+#### Work Experience:
+
+- **Senior GenAI Engineer** @ Aivar Innovations, Bengaluru *(2026 – present)*
+  - Telephony and voicebot systems
+
+- **Member of Technical Staff, AI** @ Exotel, Bengaluru *(2025 – 2026)*
+  - Owned the evals for the ASR, TTS and LLM models behind production voicebots; compared vendors and integrated the models into the voicebot pipeline
+  - Worked on the multi-agent systems, guardrails and PII redaction behind the bots; built a prototype agent to debug live calls in plain language
+
+- **System Development Engineer 2, AI Solutions** @ Dell Technologies *(2024 – 2025, joined as graduate intern)*
+  - Built a tool for fine-tuning, training and load-testing LLMs on GPU clusters and took it to production, cutting manual effort from days to hours
+  - Built the backend of a platform running models of up to 70B parameters across multi-node GPU clusters
+  - Part of a pilot on HPC benchmarking and automation for a supercomputer at NERSC
 
 
 
@@ -115,9 +131,23 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
   - DOI: https://doi.org/10.1007/s40747-022-00911-6
 
 
-  *working on*
-- M.Tech Thesis
-    - Submitted 1 paper in international conference. 
+- First author in Research Paper: Towards on-device keyword spotting using low-footprint quaternion neural models
+  - [Paper](https://cai.iiitd.ac.in/index.php/publications/94246/towards-on-device-keyword-spotting-using-low-footprint-quaternion-neural-models)
+  - IEEE WASPAA 2023, New York
+  - [Code](https://github.com/DataSenseiAryan/GoogleSpeechCommandLowFootprint)
+
+- Joint first author in Research Paper: Efficient CNNs with quaternion transformations and pruning for audio tagging (with University of Surrey)
+  - [Paper](https://openresearch.surrey.ac.uk/esploro/outputs/conferenceProceeding/Efficient-CNNs-with-Quaternion-Transformations-and/99892766602346)
+  - Interspeech 2024
+
+- First author in Research Paper: QGAN: Low footprint quaternion neural vocoder for speech synthesis (Oral)
+  - [Paper](https://doi.org/10.21437/Interspeech.2024-2014)
+  - Interspeech 2024
+  - DOI: https://doi.org/10.21437/Interspeech.2024-2014
+
+- M.Tech Thesis: Quaternion neural networks for speech and audio
+  - **Best M.Tech Thesis Award**, IIIT Delhi (2024)
+  - Code released as [QuatNet](https://github.com/DataSenseiAryan/QuatNet), a PyTorch library for quaternion neural networks
 
 
 
@@ -135,6 +165,8 @@ Github, Big Data basics (setup/adminitration), SQL, Linux along with strong theo
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> 
   <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="20" height="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="20" height="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="20" height="20"/>
   
 </p>  
 
